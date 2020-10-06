@@ -3,7 +3,7 @@ import './seasonDisp.css';
 
 const seasonConfig = {
   summer: {
-    text: "Let's hit the beach! In other words, AAYA MAUSAM THANDE THANDE DERMI COOL KA!",
+    text: "Let's hit the beach! Or stay home and listen to Summertime Sadness on repeat, either one works.",
     iconName: 'sun',
     name:'SUMMER'
     
